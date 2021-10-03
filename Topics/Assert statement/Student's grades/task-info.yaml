@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    def grades(x):
+        ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10379#comment
+status: Unchecked
+feedback:
+  message: Failed to get check result from JetBrains Academy
+  time: Fri, 01 Oct 2021 13:50:02 UTC
+record: -1
